@@ -28,7 +28,7 @@ layout: default
 |**2023-09-21**|**Dive Deeper into Rectifying Homography for Stereo Camera Online Self-Calibration**|Hongbo Zhao et.al.|[2309.10314](http://arxiv.org/abs/2309.10314)|null|
 |**2023-09-18**|**End-to-End Learned Event- and Image-based Visual Odometry**|Roberto Pellerito et.al.|[2309.09947](http://arxiv.org/abs/2309.09947)|null|
 |**2023-09-14**|**An Explicit Method for Fast Monocular Depth Recovery in Corridor Environments**|Yehao Liu et.al.|[2309.07408](http://arxiv.org/abs/2309.07408)|null|
-|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
+|**2023-10-10**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249](http://arxiv.org/abs/2309.05249)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-04**|**EMR-MSF: Self-Supervised Recurrent Monocular Scene Flow Exploiting Ego-Motion Rigidity**|Zijie Jiang et.al.|[2309.01296](http://arxiv.org/abs/2309.01296)|null|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
@@ -579,6 +579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299](http://arxiv.org/abs/2310.16299)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
 |**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025](http://arxiv.org/abs/2310.14025)|**[link](https://github.com/anastasiakrith/multimodal-retrieval-for-vwsd)**|
@@ -592,7 +593,7 @@ layout: default
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
 |**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
-|**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
+|**2023-10-22**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|null|
@@ -1510,6 +1511,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832](http://arxiv.org/abs/2310.16832)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831](http://arxiv.org/abs/2310.16831)|null|
+|**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383](http://arxiv.org/abs/2310.16383)|null|
+|**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255](http://arxiv.org/abs/2310.16255)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504](http://arxiv.org/abs/2310.15504)|null|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695](http://arxiv.org/abs/2310.14695)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487](http://arxiv.org/abs/2310.14487)|null|
