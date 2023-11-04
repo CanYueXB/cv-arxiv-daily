@@ -22,5 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "3D Human Reconstruction":
-        filters: ["NeRF", "Human Reconstruction", "Animatable", "Monocular Neural Human", "Neural Capture", "Human shape", "3D Human", "SMPL"]
+    # "3D Human Reconstruction":
+    #     filters: ["NeRF", "Human Reconstruction", "Animatable", "Monocular Neural Human", "Neural Capture", "Human shape", "3D Human", "SMPL"]
+    "NeRF":
+        filters:["NeRF"]
