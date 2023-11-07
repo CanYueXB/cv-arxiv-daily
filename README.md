@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.06
+## Updated on 2023.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
@@ -42,7 +42,7 @@
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
 |**2023-09-14**|**Spec-NeRF: Multi-spectral Neural Radiance Fields**|Jiabao Li et.al.|[2310.12987](http://arxiv.org/abs/2310.12987)|**[link](https://github.com/cpregroup/specnerf-v2)**|
-|**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864](http://arxiv.org/abs/2310.11864)|null|
+|**2023-11-05**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864](http://arxiv.org/abs/2310.11864)|null|
 |**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
@@ -121,5 +121,5 @@
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 
-<p align=right>(<a href=#updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231107>back to top</a>)</p>
 
