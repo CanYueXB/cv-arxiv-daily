@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -64,7 +64,7 @@
 |**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754](http://arxiv.org/abs/2311.17754)|null|
 |**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590](http://arxiv.org/abs/2311.17590)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
 |**2023-11-29**|**NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**|Xiaoliang Liu et.al.|[2311.17332](http://arxiv.org/abs/2311.17332)|null|
-|**2023-12-04**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
+|**2023-12-07**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
 |**2023-11-28**|**Continuous Pose for Monocular Cameras in Neural Implicit Representation**|Qi Ma et.al.|[2311.17119](http://arxiv.org/abs/2311.17119)|**[link](https://github.com/qimaqi/continuous-pose-in-nerf)**|
 |**2023-11-30**|**REF $^2$ -NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim et.al.|[2311.17116](http://arxiv.org/abs/2311.17116)|null|
 |**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945](http://arxiv.org/abs/2311.16945)|null|
@@ -225,5 +225,5 @@
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
