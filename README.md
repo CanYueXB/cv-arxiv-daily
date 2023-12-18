@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.17
+## Updated on 2023.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,8 +19,8 @@
 |---|---|---|---|---|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
 |**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
-|**2023-12-14**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095](http://arxiv.org/abs/2312.09095)|**[link](https://github.com/eezkni/colnerf)**|
-|**2023-12-14**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093](http://arxiv.org/abs/2312.09093)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
+|**2023-12-15**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095](http://arxiv.org/abs/2312.09095)|**[link](https://github.com/eezkni/colnerf)**|
+|**2023-12-15**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093](http://arxiv.org/abs/2312.09093)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031](http://arxiv.org/abs/2312.09031)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005](http://arxiv.org/abs/2312.09005)|null|
 |**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760](http://arxiv.org/abs/2312.08760)|null|
@@ -251,5 +251,5 @@
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 
-<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
 
