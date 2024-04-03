@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -39,7 +39,7 @@ layout: default
 |**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141](http://arxiv.org/abs/2403.16141)|null|
 |**2024-03-24**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-03-24**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
-|**2024-03-26**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/abs/2403.16080)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
+|**2024-04-02**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080](http://arxiv.org/abs/2403.16080)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043](http://arxiv.org/abs/2403.16043)|null|
 |**2024-03-28**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|Junhong Zhao et.al.|[2403.15981](http://arxiv.org/abs/2403.15981)|null|
 |**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791](http://arxiv.org/abs/2403.15791)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
@@ -78,7 +78,7 @@ layout: default
 |**2024-03-16**|**HourglassNeRF: Casting an Hourglass as a Bundle of Rays for Few-shot Neural Rendering**|Seunghyeon Seo et.al.|[2403.10906](http://arxiv.org/abs/2403.10906)|null|
 |**2024-03-16**|**MSI-NeRF: Linking Omni-Depth with View Synthesis through Multi-Sphere Image aided Generalizable Neural Radiance Field**|Dongyu Yan et.al.|[2403.10840](http://arxiv.org/abs/2403.10840)|null|
 |**2024-03-16**|**H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation**|Chenxing Jiang et.al.|[2403.10821](http://arxiv.org/abs/2403.10821)|**[link](https://github.com/sysu-star/h3-mapping)**|
-|**2024-03-15**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
+|**2024-04-01**|**FeatUp: A Model-Agnostic Framework for Features at Any Resolution**|Stephanie Fu et.al.|[2403.10516](http://arxiv.org/abs/2403.10516)|**[link](https://github.com/mhamilton723/FeatUp)**|
 |**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|null|
 |**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-19**|**GGRt: Towards Pose-free Generalizable 3D Gaussian Splatting in Real-time**|Hao Li et.al.|[2403.10147](http://arxiv.org/abs/2403.10147)|null|
