@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model**|Qi Song et.al.|[2407.07735](http://arxiv.org/abs/2407.07735)|null|
+|**2024-07-10**|**Drantal-NeRF: Diffusion-Based Restoration for Anti-aliasing Neural Radiance Field**|Ganlin Yang et.al.|[2407.07461](http://arxiv.org/abs/2407.07461)|null|
+|**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220](http://arxiv.org/abs/2407.07220)|null|
 |**2024-07-09**|**Sparse-DeRF: Deblurred Neural Radiance Fields from Sparse View**|Dogyoon Lee et.al.|[2407.06613](http://arxiv.org/abs/2407.06613)|null|
 |**2024-07-08**|**RRM: Relightable assets using Radiance guided Material extraction**|Diego Gomez et.al.|[2407.06397](http://arxiv.org/abs/2407.06397)|null|
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
@@ -99,7 +102,7 @@
 |**2024-06-09**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593](http://arxiv.org/abs/2406.01593)|null|
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579](http://arxiv.org/abs/2406.01579)|**[link](https://github.com/fudan-zvg/tet-splatting)**|
-|**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042](http://arxiv.org/abs/2406.01042)|**[link](https://github.com/fangli333/sc-4dgs)**|
+|**2024-07-11**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042](http://arxiv.org/abs/2406.01042)|**[link](https://github.com/fangli333/sc-4dgs)**|
 |**2024-06-02**|**PruNeRF: Segment-Centric Dataset Pruning via 3D Spatial Consistency**|Yeonsung Jung et.al.|[2406.00798](http://arxiv.org/abs/2406.00798)|null|
 |**2024-06-02**|**Representing Animatable Avatar via Factorized Neural Fields**|Chunjin Song et.al.|[2406.00637](http://arxiv.org/abs/2406.00637)|null|
 |**2024-07-01**|**SuperGaussian: Repurposing Video Models for 3D Super Resolution**|Yuan Shen et.al.|[2406.00609](http://arxiv.org/abs/2406.00609)|null|
@@ -723,5 +726,5 @@
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
