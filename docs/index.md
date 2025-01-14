@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -32,7 +32,7 @@ layout: default
 |**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
 |**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213](http://arxiv.org/abs/2412.16213)|**[link](https://github.com/tommy-nguyen-cpu/advirl)**|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
-|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
+|**2025-01-11**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-26**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
 |**2024-12-18**|**DreaMark: Rooting Watermark in Score Distillation Sampling Generated Neural Radiance Fields**|Xingyu Zhu et.al.|[2412.15278](http://arxiv.org/abs/2412.15278)|null|
 |**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579](http://arxiv.org/abs/2412.14579)|null|
