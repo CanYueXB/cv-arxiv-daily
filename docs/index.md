@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## NeRF
@@ -80,7 +80,7 @@ layout: default
 |**2025-04-02**|**RealityAvatar: Towards Realistic Loose Clothing Modeling in Animatable 3D Gaussian Avatars**|Yahui Li et.al.|[2504.01559](http://arxiv.org/abs/2504.01559)|null|
 |**2025-04-23**|**Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment**|Ziteng Cui et.al.|[2504.01503](http://arxiv.org/abs/2504.01503)|**[link](https://github.com/cuiziteng/Luminance-GS)**|
 |**2025-04-07**|**Neural Pruning for 3D Scene Reconstruction: Efficient NeRF Acceleration**|Tianqi Ding et.al.|[2504.00950](http://arxiv.org/abs/2504.00950)|null|
-|**2025-04-09**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
+|**2025-05-26**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
 |**2025-03-31**|**NeRF-Based defect detection**|Tianqi et.al.|[2504.00270](http://arxiv.org/abs/2504.00270)|null|
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219](http://arxiv.org/abs/2504.00219)|null|
 |**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/abs/2503.24374)|null|
