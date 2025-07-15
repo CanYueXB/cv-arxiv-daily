@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
@@ -1248,5 +1248,5 @@
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933](http://arxiv.org/abs/2309.03933)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
